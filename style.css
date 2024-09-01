@@ -1,0 +1,118 @@
+body{
+    background-image: url("././img/background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    color: rgb(0, 0, 0);
+}
+summary{
+    color: rgb(0, 0, 0);
+}
+
+.white-box{
+    background-color: white;
+    padding: 20px ;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center ;
+    border-radius: 10px;
+    max-width: 90%;
+    width: auto;
+    min-width: 200px;
+}
+
+
+.character-box{
+    margin: 20px;
+    background-color: white;
+    padding: 20px ;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center ;
+    border-radius: 10px;
+    max-width: 90%;
+    width: auto;
+    min-width: 200px;
+}
+
+.text{
+    text-align: top;
+    color: red;
+}
+
+.acheron-banner{
+    width: 30%;
+    height: auto;
+   margin-left: 40px;
+   text-align: middle;
+}
+
+.acheron-eid{
+    width: 30%;
+    height: auto;
+    margin-left: 60px;
+}
+
+.acheron-conus{
+    width: 17%;
+    height: auto;
+   margin-left: 40px;
+   text-align: middle;
+}
+
+.guide-acheron{
+    width: 50%;
+    height: auto;
+   margin-left: 40px;
+   text-align: middle;
+}
+
+.resource-acheron{
+    width: 50%;
+    height: auto;
+   margin-left: 40px;
+   text-align: middle;
+}
+
+.hsr-logo{
+    width: 190%;
+    height: auto;
+}
+
+.Avanturine{
+    width: 30%;
+    height: auto;
+   margin-left: 40px;
+   text-align: middle;
+}
+.Aventurine-eid{
+    width: 30%;
+    height: auto;
+    margin-left: 60px;
+}
+
+.Aventurine-conus{
+    width: 17%;
+    height: auto;
+   margin-left: 40px;
+   text-align: middle;
+}
+
+.Aventurine-guide{
+    width: 50%;
+    height: auto;
+   margin-left: 40px;
+   text-align: middle;
+}
+
+.Aventurine-res{
+    width: 50%;
+    height: auto;
+   margin-left: 40px;
+   text-align: middle;
+}
